@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Rad.
+
+I also maintain some [portfolio projects at GitLab](https://gitlab.com/radamanthus).
+
 <!--
 **radamanthus/radamanthus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
