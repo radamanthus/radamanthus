@@ -4,7 +4,7 @@ I'm Rad.
 
 I'm a Rails developer with over 15 years of experience helping companies create and support amazing products!
 
-Portfolio: https://radamanthus.gitlab.io/portfolio/
+Portfolio: https://rad.batnag.org/portfolio/
 
 <!--
 **radamanthus/radamanthus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
